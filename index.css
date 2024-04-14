@@ -1,0 +1,25 @@
+body {
+    background-color:antiquewhite;
+    color: black;
+}
+
+.nav {
+    padding: 2rem 0;
+}
+
+.register {
+    padding: 3rem 0;
+}
+
+.login {
+    padding: 3rem 0;
+}
+
+ul {
+    list-style: none;
+    display: flex;
+}
+
+li {
+    margin-left: 1rem;
+}
