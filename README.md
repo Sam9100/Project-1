@@ -2,11 +2,15 @@
 ## By : Muhammad Haitsam Izzuddin Azman & Resqi Aulia Gita Utami
 ### Tampilan Hasil Sementara
 ### Page Home (Haitsam)
+![Screenshot 2024-04-15 141022](https://github.com/Sam9100/Project-1/assets/147012328/fb5bcf13-7e69-4405-a887-cc06b1c884ec)
 
 ### Page Login (Haitsam)
-![image](https://github.com/Sam9100/Project-1/assets/147012328/fc0e6b55-9cc3-4806-ad4c-84344c35e72e)
+![image](https://github.com/Sam9100/Project-1/assets/147012328/fdb7e2f4-1300-4aa3-94d8-de6e190a56ef)
+
 ### Page Register (Haitsam)
-![image](https://github.com/Sam9100/Project-1/assets/147012328/63fc0db8-39fe-4482-9ba4-eeacc419c18b)
+![image](https://github.com/Sam9100/Project-1/assets/147012328/7dd99bce-ffac-48f3-8c68-3d86a0b38ac8)
+![image](https://github.com/Sam9100/Project-1/assets/147012328/7af4b0f0-fe45-4561-9724-39a5c5908497)
+
 ### Page Home (Gita)
 
 ### Page Login (Gita)
