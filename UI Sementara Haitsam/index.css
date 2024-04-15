@@ -1,0 +1,53 @@
+body {
+    background-color: antiquewhite;
+    color: black;
+    background: no-repeat center center;
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+}
+
+.nav {
+    padding: 2rem 0;
+}
+
+.register {
+    padding: 3rem 0;
+}
+
+.login {
+    padding: 3rem 0;
+}
+
+ul {
+    list-style: none;
+    display: flex;
+}
+
+li {
+    margin-left: 1rem;
+}
+
+.section.hero {
+
+
+    padding: 10px;
+    background-color: rgba(0, 0, 0, 0.3);
+    width: 40%;
+
+}
+
+
+.footer {
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+    height: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.footer p {
+    font-weight: bold;
+}
