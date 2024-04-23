@@ -11,8 +11,5 @@
 ![image](https://github.com/Sam9100/Project-1/assets/147012328/7dd99bce-ffac-48f3-8c68-3d86a0b38ac8)
 ![image](https://github.com/Sam9100/Project-1/assets/147012328/7af4b0f0-fe45-4561-9724-39a5c5908497)
 
-### Page Home (Gita)
-
 ### Page Login (Gita)
-
-### Page Register (Gita)
+![image](https://github.com/Sam9100/Project-1/assets/147012438/f324b0c3-a40c-47f0-9b0e-433c748b28a9)
